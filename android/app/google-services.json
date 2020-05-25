@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53106809175",
+    "firebase_url": "https://anu-mini-26cf2.firebaseio.com",
+    "project_id": "anu-mini-26cf2",
+    "storage_bucket": "anu-mini-26cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53106809175:android:48a48e69d7940fe3124612",
+        "android_client_info": {
+          "package_name": "com.tata.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53106809175-nce0l8surodb2llpp4ms73pu6cbukrkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMOKjXnutTSuJ2R1QQEcTgTm0kEN0X94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53106809175-nce0l8surodb2llpp4ms73pu6cbukrkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
